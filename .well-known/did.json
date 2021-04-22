@@ -1,0 +1,18 @@
+{
+  "@context": "https://www.w3.org/ns/did/v1",
+  "id": "did:web:letmaik.github.io",
+  "authentication": [
+    {
+      "id": "did:web:letmaik.github.io#keys-main",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:letmaik.github.io",
+      "publicKeyJwk": {
+        "kty": "RSA",
+        "kid": "main",
+        "x5c": [
+          "MIICrDCCAZSgAwIBAgIUa72ln805SiPtRCJgTX37iEg4BpMwDQYJKoZIhvcNAQELBQAwEDEOMAwGA1UEAwwFZHVtbXkwHhcNMjEwNDIyMTUwMzQxWhcNMjEwNTAyMTUwMzQxWjAQMQ4wDAYDVQQDDAVkdW1teTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJsFaAmsIqlrJt9aHQ0zWz2mYY2REr/QeaC13CsedkPGakK/ZOUlOpD1wi1pFovWgOktwPiOsQ03eKbyscfJPL361f8lXTVTCi2hnjQiTpfadZGrGtnPFE6Xyw9UShbQM8NDNGq6MfQIoXsN0rGv6WfxvyC7bru2KVnDP0kZ/aWw8GEsEgORltKJMRgpTcrtnHC/fZ2c2z3HLTs4LMZHZSsdcMZjRLgPa9F+0KzfPy4TwVfuh0MIfqKtvVXJDnb6POpQJgx7cuzVlmh2ASJb/qN2NSwjRen+pnmFRXbgCIIMwp6K/B+wUOwChnc+t3jt/fxnebk0ox8pytjIPhLi3AkCAwEAATANBgkqhkiG9w0BAQsFAAOCAQEAjwElz+Wm4yTGdrK77BQChboA9zvTRaAEWY/991+3Hm3epntDZK4eb5FevhL8uuaLB4O9OMlUWiu+j/n/i7qfqkx96QOwPiy/ffRtBZypWUwS1HiQiVd2FAKjJbkDrLlwTVwn45jMTp4LEDek0ZCQ+U8h4h7l4r+tsIee2fQhbPMVC8xpUjHltem0ylg3whhvtriGHFoQLuPT6ovVifTy2qZY3D3Rv8fQGKbPiyiqkt7ZuSKtY4YASobWD2gloiHS3Q/AgLQLoopIE5B3oJKMtLqhle4CsdKSW7XJPJ1HaKa/Jj7XEuwxPqIETpcverYGf/mlXhleL9EfCpRyq2FBwQ=="
+        ]
+      }
+    }
+  ]
+}
