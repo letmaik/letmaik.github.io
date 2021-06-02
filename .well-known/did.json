@@ -3,15 +3,16 @@
   "id": "did:web:letmaik.github.io",
   "authentication": [
     {
-      "id": "did:web:letmaik.github.io#keys-main",
+      "id": "did:web:letmaik.github.io#key-1",
       "type": "JsonWebKey2020",
       "controller": "did:web:letmaik.github.io",
       "publicKeyJwk": {
         "kty": "RSA",
-        "kid": "main",
+        "alg": "RS256",
         "x5c": [
-          "MIIC1DCCAbygAwIBAgIUSP2dGOdw8KpHIYaB11zySXSOTi0wDQYJKoZIhvcNAQELBQAwJDEiMCAGA1UEAwwZZGlkOndlYjpsZXRtYWlrLmdpdGh1Yi5pbzAeFw0yMTA0MjcxNDQ3MzZaFw0yMTA1MDcxNDQ3MzZaMCQxIjAgBgNVBAMMGWRpZDp3ZWI6bGV0bWFpay5naXRodWIuaW8wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC78dtep/gkdoFVz8yWoMWCbfR8A6LlGUHgzybKQLfsyCfmzJZKZhqVQd8LxtgH5ka+dyYr+SkrO6LEHpBJDmi2ml1XTuuH07HPLZc0KUejxAfThpaXdbDkonkI/mTeDs3ufhs6zZKbmLNjnXrugxe6s6vnBiWgYNF1LUuK2+dgu0oEuB8xOsIUTti/Xzg3xlGulY87kZQXZVpYF70QSNlvRYQrlZWYU/DzeaJnPZqCWxpSdigiMHWbeECNqWf4/ZR3SUBzUqG3bKsNYjIzQUjB+EOIdCxjxSCtpoVLF0JLn48GLWl8jMoIpecZmh/PW7a2/508UQvU+taggnVIuo15AgMBAAEwDQYJKoZIhvcNAQELBQADggEBAJsopQa4JrT4i4/4RKFqQ1AuhtjhtZYgC41gHVQb1inMLF+dfL3IjW7ue3AKhCToCuIY4Qj7Xh8WtR6O94O7golCIs6EVsi5yXt1NIC0s6QKGJnv3Hx9BgTEY3qtqGalOMCzcKD30j02Sbv4a/We/nZPsGsuNWtf+YbNpodNpAuTjJETcAlnWpYh9JEXPyJLhNHbxtIotAsy/X5o4Ed5JFActQpJMGmGSeTO9kDzE0TTNCfoAnzjSpfvnM5niz4geaoEqHN8SOi4jsxMUsRvSjUQuyD1MvPNt/EsD7LKctkA1ejjkCErBY+jtw5/8TdtwJ61E1MbKQgkywlq/a9pP/s="
-        ]
+          "MIICuDCCAaCgAwIBAgIUDx/pOscVgivVcLmOgImFUSaIdAAwDQYJKoZIhvcNAQELBQAwFjEUMBIGA1UEAwwLc2VsZi1zaWduZWQwHhcNMjEwNjAyMTMxODI0WhcNMjEwNjEyMTMxODI0WjAWMRQwEgYDVQQDDAtzZWxmLXNpZ25lZDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAORwKsP+j2bafxI4vEGvmLOLMWfypa9z+uQQnj/XZRKo3ATc37P+fSCyyvuE66Tyir6yQacYt2LjfDdtaZV4ILOx4DZZynr1CeDhdaWf3T51zsbSVqfBALGncYMvWx5esXicG0m88dRHkCbAmiWI4DZqu+ZkQuCDAc3YV/w4lGmHcSKNerAPt/yWlZOCyWeh42olRy/UCqNQPkN2JgPXcBOsw2beZ03LlgkWY+vRbGV9mrjDYKSRoWqgwxQNOxspvNBMzghGsSU2OJjQxt1urb0f1i19lciZ1mg+xOOAaSLqDiLAyaT3w/A0ikjKWSebDM0+Z6hYc6z1pqPVk3oRRRUCAwEAATANBgkqhkiG9w0BAQsFAAOCAQEAXCNalg2fcD/8OMihMyaJZ94ycAVDndbJYLSk9abbRIhWKJ05HozEj70MYwhujncUIfrJO4xMM/TmxzpU9Cpy0y2PgE3bGFqXLSeQCkyjo/w9i9cNU6pu5M+oEJCPZufHZ1E4Fhd/lJIbMk7agIpVwCmyX9orNmDR68tNFGalx6p3N7Y4AxcFeojLqTrTQmkblbjZZNIZ6tnwVur1BigvEfi9G48bdWQXcYlIiYhFhTd7e70m1LOwwkTnFbDe7ovvfOJlwN+W88xxiqYnforXQnkE/CL58i2OTta8cxScDYcsWtAu9e42qoEcFXOLlYw3CZZPA7ba1HGvOEWuhft9Bw=="
+        ],
+        "kid": "main"
       }
     }
   ]
