@@ -3,15 +3,15 @@
   "id": "did:web:letmaik.github.io",
   "assertionMethod": [
     {
-      "id": "did:web:letmaik.github.io#71060dce5a8b5ac00485b171d56cef18f02a0ce3912b4370566c374dc2a407f0",
+      "id": "did:web:letmaik.github.io#e66d7cead237be9276dfc96c968e4576da5bc148adbd9dea4a12cdefedca46c3",
       "type": "JsonWebKey2020",
       "controller": "did:web:letmaik.github.io",
       "publicKeyJwk": {
-        "kid": "71060dce5a8b5ac00485b171d56cef18f02a0ce3912b4370566c374dc2a407f0",
+        "kid": "e66d7cead237be9276dfc96c968e4576da5bc148adbd9dea4a12cdefedca46c3",
         "kty": "EC",
         "alg": "ES256",
         "x5c": [
-          "MIIBLDCB0qADAgECAhQKqxUtahIEVmEaIOIjPkjfrcNgmDAKBggqhkjOPQQDAjAWMRQwEgYDVQQDDAtzZWxmLXNpZ25lZDAeFw0yMjA0MDUxOTMzNDNaFw0yMjA0MTUxOTMzNDNaMBYxFDASBgNVBAMMC3NlbGYtc2lnbmVkMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEhu0gmHDHjvn9Y/7EaXn0kXDRshKQ8PWb5eLYYXFfr44H0WFV32awkG95HM3khUtEceFt2d8qhH8Qfya/n03TVzAKBggqhkjOPQQDAgNJADBGAiEAkgbQOxkL0WU80V4k8rLGzKYP5wxXLGRzBQAQSUgteAYCIQDPqyHyT3JvsZGWpS2KMGS86YtddTw6cxXyhwBsYK0fDg=="
+          "MIIBKjCB0qADAgECAhRHTCzi9lNcIBPhCfeOZQIzZ5BPxzAKBggqhkjOPQQDAjAWMRQwEgYDVQQDDAtzZWxmLXNpZ25lZDAeFw0yMjA0MDUyMDA4MjdaFw0yMjA0MTUyMDA4MjdaMBYxFDASBgNVBAMMC3NlbGYtc2lnbmVkMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEvTeDNth5MDM6jBe89Um6KEG01YHVjDecEIMQkmyozCpCo0ueMQHUTIJpYe0p7cL92CSb9eJcECnHd4mMCxFtfzAKBggqhkjOPQQDAgNHADBEAiByh8vVMyhKIUiALASysSIquGwp61wEvK8E1H5aYTpO3gIgG/klHx1t/K6FSBF2M7QnlsxNJuTq0uiKLDj2JDXK7VI="
         ]
       }
     }
