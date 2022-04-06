@@ -3,15 +3,15 @@
   "id": "did:web:letmaik.github.io",
   "assertionMethod": [
     {
-      "id": "did:web:letmaik.github.io#e66d7cead237be9276dfc96c968e4576da5bc148adbd9dea4a12cdefedca46c3",
+      "id": "did:web:letmaik.github.io#c6b97413e00b1a82d6f2e953a3bdaf9865ff8fe7a4b2da0660a9d35e4b0eb17f",
       "type": "JsonWebKey2020",
       "controller": "did:web:letmaik.github.io",
       "publicKeyJwk": {
-        "kid": "e66d7cead237be9276dfc96c968e4576da5bc148adbd9dea4a12cdefedca46c3",
-        "kty": "EC",
-        "alg": "ES256",
+        "kid": "c6b97413e00b1a82d6f2e953a3bdaf9865ff8fe7a4b2da0660a9d35e4b0eb17f",
+        "kty": "RSA",
+        "alg": "PS256",
         "x5c": [
-          "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"
+          "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"
         ]
       }
     }
