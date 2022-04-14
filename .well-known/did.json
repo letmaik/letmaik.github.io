@@ -3,15 +3,15 @@
   "id": "did:web:letmaik.github.io",
   "assertionMethod": [
     {
-      "id": "did:web:letmaik.github.io#e81bf4e42bba45d79a578bc9c39465a3f3f675a6e63d1478e4d0f31e8527e03f",
+      "id": "did:web:letmaik.github.io#01447d0ea7877b61ea662aa270168c59808d8b93c2b38622e2de8782a5520f4d",
       "type": "JsonWebKey2020",
       "controller": "did:web:letmaik.github.io",
       "publicKeyJwk": {
-        "kid": "e81bf4e42bba45d79a578bc9c39465a3f3f675a6e63d1478e4d0f31e8527e03f",
+        "kid": "01447d0ea7877b61ea662aa270168c59808d8b93c2b38622e2de8782a5520f4d",
         "kty": "OKP",
         "alg": "EdDSA",
         "crv": "Ed25519",
-        "x": "rELCPyUA47GEZg657YDqvuRk46SZ3G2wWiQ0yZSk8xo="
+        "x": "QJRjnzK87eKj16dAeTZexQz7E8Be4PVuonvTc8MUeoI="
       }
     }
   ]
