@@ -3,14 +3,14 @@
   "id": "did:web:letmaik.github.io",
   "assertionMethod": [
     {
-      "id": "did:web:letmaik.github.io#a5322000f9f69c2db784868b3317bd1e7770ccac866fccae24c109b7ee16c876",
+      "id": "did:web:letmaik.github.io#39d374ab73808de88108ee2bde9a01393f9adeecb80a543956a611e88f618828",
       "type": "JsonWebKey2020",
       "controller": "did:web:letmaik.github.io",
       "publicKeyJwk": {
-        "kid": "a5322000f9f69c2db784868b3317bd1e7770ccac866fccae24c109b7ee16c876",
+        "kid": "39d374ab73808de88108ee2bde9a01393f9adeecb80a543956a611e88f618828",
         "kty": "RSA",
         "alg": "PS256",
-        "n": "4LD0RM4VRlHeyE2JkjlxzIqWW6Pp295lvBEtdKkrnqbj_4mHWgSYVNPGpMEKwNEVAVCXT2kLySHA0HHAX0kkdzFCWy8OZGE9d484MxO0GHqke60Cp3hk2ZkeIFl5-gnJ-uQEIBu9vxhb_nS1PRdr6FEw8atAW6BDq64XylqDxjkQlNCmXoK7IqvJZryGS7MFOuwOTlAFAiX4N1weBlXFYPwHgY68gyjY5SmHtK8nqlOkqDavBNkh-4t7OSnCVNUp2ULMAuvtmtqP2JCtig2fTiZLoeTDj8xUb1chPDXjKoCjn-dHUWV-s2Tp3kLNwXfEwtT-SUf_4GhfQZoNENN8lEOcE3yX_3sjO-Ldzp1_bc-AE_1QD7j_7KG0SCLZvXZEJL1qgmnDitnmP83EnK-2swKI0LRTa0R_w1cYQkHQzDNaiXwtyeKQB1BBdyDlflyKLP4-utYRTQ4RCW1B-lfaaw3ZybLSy80WV238FHS8HGxulsIwyQ5XPKR2RXiFLo2Sa0mVqfuD5q1Vet-dgEA-HLHNvYZMytf_XgU0tEKt45U8yXswK9afN7IyyxqzrUxHYpxfz9Q6CHsDY1VOol905eCXsFAk51oPB5LC84lVT5s7gQj8XIThU5w4hrqVLFxPFVHi1jMC5AnLvNTGG3mrRAXg8qtoji-TEqcLye6jcdU=",
+        "n": "olwWvV7Ez2rDgqRgcZMJzz3YMDmWHS_ifz8WWKySTPplcjLy_WEeNu0JU2EDvyzctztJxLmg2y_XlQ9IbA9gwH26sqyNk6KkVYNzruyNfSiDi0JXbuG8eCPvUhye16TkkFIS-7YWj9Q8OyXDm0czFIcQYGN1csKZ7YjoP1QQ397P3NS46-b9sVQ_KQK1w-NxLsc4y9EDn05EUjXwhhe2L6Lk4edHPkVU3yctbqX0UBKx87qiIXtLdl0c3j0ggSCebjSu-o-CHHkCFZNO9vzwvTLLDMBb7Ru0ktylQ5eqm4Sue-1EK3BkmBAAF2tv0IkTSA4D9SV9w6zqo-asfe5vc283i3kAHQzYzkaE0w0SBOvo9NqAfRTC_bOGC3FDgnoQjFXHMFdjGGdWRka8h6tsVlgObPyKMi9j9fQUcJEcyI_GAcC8OyKDsG51HeYev_8192ImTIhJ9MuLHgqY9c6zuM8mwMkFdF5-H3LE-PkTclOcXyBHXeZT1bpdL9FFQ1j0EhXJzm9UHYDEwCz3XV97yn2IMhwIe913qQ8Q0A3Tyw0-vGlT8wSOoAqjN3b2o4cbv7Af_vq0tNwxIRNBk9HJFCDfhWKFpl0zC1bFEC-sL9OjJiapowooGyuE1UMDvdTWi0SUj8_f1iplqp5wQ20KdNr6Ngu0y0h8b_23nMsuJhM=",
         "e": "AQAB"
       }
     }
