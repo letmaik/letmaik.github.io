@@ -1,17 +1,21 @@
 {
-  "@context": "https://www.w3.org/ns/did/v1",
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/jws-2020/v1"
+  ],
   "id": "did:web:letmaik.github.io",
   "assertionMethod": [
     {
-      "id": "did:web:letmaik.github.io#39d374ab73808de88108ee2bde9a01393f9adeecb80a543956a611e88f618828",
+      "id": "did:web:letmaik.github.io#6d318e4e003939cb265f02d3aec0b0f2aa166377f2e36d8d984e103b0f6e116e",
       "type": "JsonWebKey2020",
       "controller": "did:web:letmaik.github.io",
       "publicKeyJwk": {
-        "kid": "39d374ab73808de88108ee2bde9a01393f9adeecb80a543956a611e88f618828",
-        "kty": "RSA",
-        "alg": "PS256",
-        "n": "olwWvV7Ez2rDgqRgcZMJzz3YMDmWHS_ifz8WWKySTPplcjLy_WEeNu0JU2EDvyzctztJxLmg2y_XlQ9IbA9gwH26sqyNk6KkVYNzruyNfSiDi0JXbuG8eCPvUhye16TkkFIS-7YWj9Q8OyXDm0czFIcQYGN1csKZ7YjoP1QQ397P3NS46-b9sVQ_KQK1w-NxLsc4y9EDn05EUjXwhhe2L6Lk4edHPkVU3yctbqX0UBKx87qiIXtLdl0c3j0ggSCebjSu-o-CHHkCFZNO9vzwvTLLDMBb7Ru0ktylQ5eqm4Sue-1EK3BkmBAAF2tv0IkTSA4D9SV9w6zqo-asfe5vc283i3kAHQzYzkaE0w0SBOvo9NqAfRTC_bOGC3FDgnoQjFXHMFdjGGdWRka8h6tsVlgObPyKMi9j9fQUcJEcyI_GAcC8OyKDsG51HeYev_8192ImTIhJ9MuLHgqY9c6zuM8mwMkFdF5-H3LE-PkTclOcXyBHXeZT1bpdL9FFQ1j0EhXJzm9UHYDEwCz3XV97yn2IMhwIe913qQ8Q0A3Tyw0-vGlT8wSOoAqjN3b2o4cbv7Af_vq0tNwxIRNBk9HJFCDfhWKFpl0zC1bFEC-sL9OjJiapowooGyuE1UMDvdTWi0SUj8_f1iplqp5wQ20KdNr6Ngu0y0h8b_23nMsuJhM=",
-        "e": "AQAB"
+        "kty": "EC",
+        "crv": "P-256",
+        "x": "t99ScByKYpy7J3D8gqJYWqp6Exk7HUq9kwVhYUernDU=",
+        "y": "-ZKwyOJ76XNBa0lzRwUrZ35-Ul6fe58jQVkO7cWNfaE=",
+        "kid": "6d318e4e003939cb265f02d3aec0b0f2aa166377f2e36d8d984e103b0f6e116e",
+        "alg": "ES256"
       }
     }
   ]
